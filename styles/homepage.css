@@ -1,0 +1,39 @@
+input {
+    display: block;
+    margin: 20px;
+}
+
+button {
+    margin: 20px;
+}
+
+#navlista {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    text-align: center;
+}
+
+article {
+    margin-left: 600px;
+    padding-left: 15px;
+    padding-top: 15px;
+    width: 500px;
+    height: 500px;
+    background-color: aliceblue;
+    margin-bottom: 50px;
+    border: solid 1px blue;
+}
+
+aside {
+    position: absolute;
+    padding: 100px;
+    top: 400px;
+    left: 1400px;
+    width: 500px;
+    height: 500px;
+    background-color: aliceblue;
+}
+
